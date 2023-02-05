@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">A passionate conversational AI developer from India</h3>
-<img align="right" alt="AI Chatbot" width="400" src="https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif">
+<img align="right" alt="AI Chatbot" width="350" src="https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaniv17&label=Profile%20views&color=0e75b6&style=flat" alt="shivaniv17" /> </p>
 
@@ -23,4 +23,4 @@
 
 <h3>GitHub Analytics </h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivaniv17&show_icons=true&locale=en" alt="shivaniv17" /></p>
+<p>&nbsp;<img height="180em align="left" src="https://github-readme-stats.vercel.app/api?username=shivaniv17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
