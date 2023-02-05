@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">A passionate chatbot developer from India</h3>
+<h3 align="center">A passionate conversational AI developer from India</h3>
 <img align="right" alt="AI Chatbot" width="400" src="https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaniv17&label=Profile%20views&color=0e75b6&style=flat" alt="shivaniv17" /> </p>
 
-- 🔭 I’m currently working as **chatbot developer to ICICI prudential life insurance**
+- 🔭 I’m currently working for **ICICI prudential life insurance**
 
 - 📫 How to reach me **shivani.sharks06@gmail.com**
 
